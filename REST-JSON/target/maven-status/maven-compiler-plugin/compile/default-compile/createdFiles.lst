@@ -1,0 +1,6 @@
+rest\RESTPerson.class
+rest\ApplicationConfig.class
+entity\Person.class
+entity\Person_.class
+facade\Facade.class
+main\Main.class
